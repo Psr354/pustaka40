@@ -132,10 +132,15 @@ Alur penggunaan utama:
 
 Placeholder screenshot:
 
-```md
-<img src="docs/screenshots/dashboard.png" alt="Dashboard Screenshot">
-<img src="docs/screenshots/book-detail.png" alt="Book Detail Screenshot">
-```
+
+<p align="center">
+  <img src="./docs/screenshots/dashboard.png" width="800">
+</p>
+
+<p align="center">
+  <img src="./docs/screenshots/book-detail.png" width="800">
+</p>
+
 
 ## 📁 Struktur Folder
 
