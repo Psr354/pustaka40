@@ -133,8 +133,8 @@ Alur penggunaan utama:
 Placeholder screenshot:
 
 ```md
-![Dashboard Screenshot](docs/screenshots/dashboard.png)
-![Book Detail Screenshot](docs/screenshots/book-detail.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Psr354/pustaka40/main/docs/screenshots/dashboard.png)
+![Book Detail Screenshot](https://raw.githubusercontent.com/Psr354/pustaka40/main/docs/screenshots/book-detail.png)
 ```
 
 ## 📁 Struktur Folder
