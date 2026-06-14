@@ -47,7 +47,7 @@ Pastikan environment lokal sudah memiliki:
 Clone repository:
 
 ```bash
-git clone https://github.com/username/pustaka40.git
+git clone https://github.com/Psr354/pustaka40.git
 cd pustaka40
 ```
 
