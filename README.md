@@ -133,8 +133,8 @@ Alur penggunaan utama:
 Placeholder screenshot:
 
 ```md
-<img src="https://raw.githubusercontent.com/Psr354/pustaka40/main/docs/screenshots/dashboard.png" width="800">
-<img src="https://raw.githubusercontent.com/Psr354/pustaka40/main/docs/screenshots/book-detail.png" width="800">
+<img src="docs/screenshots/dashboard.png" alt="Dashboard Screenshot">
+<img src="docs/screenshots/book-detail.png" alt="Book Detail Screenshot">
 ```
 
 ## 📁 Struktur Folder
